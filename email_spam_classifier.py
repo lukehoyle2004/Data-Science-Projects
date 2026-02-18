@@ -1,5 +1,5 @@
 """
-Email Spam Classifier (Naive Bayes) — cleaned from a Colab notebook export.
+Email Spam Classifier (Naive Bayes)
 
 What this script does:
 - Loads one or more CSV datasets containing email bodies + labels
@@ -18,7 +18,6 @@ Usage examples:
 
 Notes:
 - If you haven't downloaded NLTK resources before, the script will attempt to download them.
-- This script avoids notebook-only commands (no "!pip install" etc.).
 """
 
 from __future__ import annotations
