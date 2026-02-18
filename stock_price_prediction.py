@@ -6,7 +6,7 @@ What this script does:
 - Builds simple technical features (SMA_10, SMA_30)
 - Trains a Linear Regression model
 - Evaluates with MSE, RMSE, and R^2
-- Produces basic plots (optional)
+- Produces basic plots
 
 Usage:
   python stock_price_prediction.py --ticker LMT --start 2016-01-01 --end 2026-01-22 --plot
